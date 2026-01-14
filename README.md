@@ -1,4 +1,4 @@
-# Hi, I’m Aaish
+# Hi, I’m Aaish!
 
 I’m a **VP of Engineering** with hands-on experience designing, scaling
 and maintaining systems across **eCommerce, retail operations,
