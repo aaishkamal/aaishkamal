@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I’m Aaish
 
-<!--
-**aaishkamal/aaishkamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **VP of Engineering** with hands-on experience designing, scaling
+and maintaining systems across **eCommerce, retail operations,
+data platforms and cloud infrastructure**.
 
-Here are some ideas to get you started:
+I focus on building **simple, reliable systems** that scale with
+business growth — not over-engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I work on
+
+- Systems architecture & integrations (ERP, Shopify, POS)
+- Data pipelines, reporting & operational analytics
+- Internal tooling & workflow automation
+- Infrastructure, security & reliability
+
+---
+
+## Current focus
+
+- Platform stability and cost optimisation
+- Improving data visibility across operations
+- Reducing operational friction through automation
+- Building maintainable systems for small, fast-moving teams
+
+---
+
+## Tech I work with
+
+**Languages:** Python, SQL  
+**Platforms:** Shopify, ERP (Cin7), APIs  
+**Infra:** AWS, GCP, Linux  
+**Other:** Data modelling, system design, integrations
+
+---
+
+📍 Auckland, New Zealand  
+🔗 LinkedIn: https://www.linkedin.com/in/mohammad-aaish-kamal/
